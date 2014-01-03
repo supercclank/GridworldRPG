@@ -8,7 +8,7 @@ GridWorldCode\GridWorldCode\projects\firstProject
 
 The main driver class is:
 
-GridWorldCode\GridWorldCode\projects\firstProjectRead.java
+GridWorldCode\GridWorldCode\projects\firstProject\Read.java
 
 and the custom subclasses of Actor
 
